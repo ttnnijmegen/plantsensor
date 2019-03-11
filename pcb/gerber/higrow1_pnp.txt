@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=higrow1
+*Date=09:41:13
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;7.99256;-27.6197;0;Bottom;Via27
+2;;;12.5355;-28.1065;0;Bottom;Via32
+3;;;7.99256;-7.66333;0;Bottom;Via30
+4;;;16.4294;-30.1571;0;Bottom;Via17
+5;;rfm22-xxx-s2;16.1744;-18.9387;0;Top;U1
+6;;;5.55885;-14.9645;0;Bottom;Via29
+7;;THT;29.7644;-25.5945;0;Bottom;J1
+8;;THT;1.82443;-25.5945;0;Bottom;J2
+9;;molex-1x4_lock;22.4326;-39.9505;-90;Bottom;JP2
+10;;;26.1643;-12.8552;0;Bottom;Via31
+11;;molex-1x4_lock;6.59584;-34.4274;90;Bottom;JP1
+12;;;13.2309;-49.16;0;Bottom;Via18
+13;;;26.1643;-16.9114;0;Bottom;Via23
+14;;;26.1643;-18.8584;0;Bottom;Via22
+15;;;8.1509;-49.0659;0;Bottom;Via19
+16;;;19.0254;-43.6822;0;Bottom;Via33
+17;;;10.6265;-49.0363;0;Bottom;Via20
+18;;;26.1643;-14.8022;0;Bottom;Via24
+19;;sma-edge;10.7144;-49.0895;0;Top;J$1
+20;;;6.0456;-23.2391;0;Bottom;Via26
+21;;;5.55885;-17.0737;0;Bottom;Via28
+22;;;6.69459;-42.871;0;Bottom;Via34
